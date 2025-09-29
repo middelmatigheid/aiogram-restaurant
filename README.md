@@ -129,7 +129,7 @@ PORT=YOUR PORT
 
 ### 8. Create folders
 
-Create folders **sections**, **subsections**, **positions** in images folder
+Create folders **sections**, **subsections**, **positions** in **images** folder
 
 ### 9. Run the bot
 
@@ -153,6 +153,7 @@ aiogram-restaurant/
 ├── requirements.txt      # Python requirements
 └── .env                  # Environment variables
 ```
+
 
 
 
