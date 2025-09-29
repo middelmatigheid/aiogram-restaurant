@@ -127,7 +127,11 @@ PASSWORD='YOUR PASSWORD'
 PORT=YOUR PORT
 ```
 
-### 8. Run the bot
+### 8. Create folders
+
+Create folders **sections, **subsections, **positions in images folder
+
+### 9. Run the bot
 
 ```bash
 python main.py
@@ -136,7 +140,7 @@ python main.py
 # Project structure
 
 ```bash
-aiogram-reminders/
+aiogram-restaurant/
 ├── main.py               # Main file to run the bot
 ├── handlers.py           # File for handling bot's requests
 ├── database.py           # File for operating the database
@@ -149,5 +153,6 @@ aiogram-reminders/
 ├── requirements.txt      # Python requirements
 └── .env                  # Environment variables
 ```
+
 
 
