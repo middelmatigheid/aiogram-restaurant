@@ -1,7 +1,7 @@
 # aiogram-randombot
 
 <video src="screenshots/video.mp4" autoplay="True" muted="True" loop="True"></video>
-<div style="display: grip; gap: 25px; grip-column-template: repeat(3, 250px);">
+<div style="display: grip; gap: 25px; grip-column-template: repeat(2, 250px); margin: auto;">
     <img src="screenshots/screenshot_1.jpg" style="width: 250px;" alt="bot screenshot">
     <img src="screenshots/screenshot_2.jpg" style="width: 250px;" alt="bot screenshot">
     <img src="screenshots/screenshot_3.jpg" style="width: 250px;" alt="bot screenshot">
@@ -150,3 +150,4 @@ aiogram-reminders/
 ├── requirements.txt      # Python requirements
 └── .env                  # Environment variables
 ```
+
