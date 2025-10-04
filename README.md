@@ -1,4 +1,4 @@
-# aiogram-randombot
+# aiogram-restaurant
 
 <div style="display: grip; gap: 25px; grip-column-template: repeat(2, 250px); margin: auto;">
     <img src="screenshots/screenshot_1.jpg" style="width: 250px;" alt="bot screenshot">
@@ -153,6 +153,7 @@ aiogram-restaurant/
 ├── requirements.txt      # Python requirements
 └── .env                  # Environment variables
 ```
+
 
 
 
